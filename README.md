@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aalp51
+- 👋 Hi, I’m @AngelOsmond
 - 👀 I’m interested in Web and App Development
 - 🌱 I’m currently pursuing a Computer Science degree
 - 💞️ I’m looking to collaborate on ...
